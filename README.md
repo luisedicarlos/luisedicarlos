@@ -1,42 +1,44 @@
 # Olá! Eu sou Luís Edicarlos 👋
 
-### Profissional de TI | Desenvolvedor de Software | Estudante de Cyber Security
+### Cyber Security | Infraestrutura de TI | Desenvolvimento de Software
 
-Profissional de tecnologia com mais de 20 anos de experiência, reunindo conhecimentos em infraestrutura, redes, desenvolvimento de software e arquitetura de sistemas.
+Profissional de tecnologia com mais de 20 anos de experiência em infraestrutura, redes, desenvolvimento de software e arquitetura de sistemas.
 
-Atualmente, estou direcionando minha carreira para **Cyber Security**, aprofundando meus conhecimentos em segurança de redes, sistemas operacionais, análise de vulnerabilidades, monitoramento e proteção de aplicações.
+Minha trajetória envolve a criação, integração e implantação de soluções tecnológicas, conectando software, infraestrutura, sistemas corporativos e equipamentos.
 
-Sou também fundador da **[Altiss Sistemas](https://altiss.com.br)**, onde desenvolvo soluções SaaS voltadas à automação e gestão de processos industriais e logísticos.
+Sou fundador da **[Altiss Sistemas](https://altiss.com.br)**, onde desenvolvo soluções SaaS voltadas à automação e gestão de processos industriais e logísticos.
 
-Meu objetivo é unir minha experiência em tecnologia e desenvolvimento de software à segurança da informação, contribuindo para a construção e proteção de ambientes tecnológicos confiáveis.
+Minha atuação técnica também contempla segurança da informação, com interesse e aprofundamento em segurança de redes, proteção de sistemas, análise de vulnerabilidades, monitoramento de ambientes e segurança de aplicações.
+
+Acredito que a tecnologia precisa ser desenvolvida e utilizada com responsabilidade, considerando não apenas sua eficiência, mas também sua segurança, confiabilidade e resiliência.
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-- 🔐 Atualmente estudando Cyber Security 
+- 🔐 Atuação e aprofundamento em Cyber Security e Segurança da Informação.
 - 🏢 Fundador e desenvolvedor na Altiss Sistemas.
 - 💻 Mais de 20 anos de experiência em tecnologia da informação.
-- 🌐 Experiência em redes, infraestrutura de TI, Linux e administração de servidores.
+- 🌐 Experiência em infraestrutura, redes, Linux e administração de servidores.
 - ⚙️ Desenvolvimento de plataformas SaaS, APIs REST e integrações entre sistemas.
-- 🛡️ Desenvolvendo conhecimentos práticos em segurança da informação.
-- 📚 Entusiasta de tecnologia e aprendizado contínuo.
+- 🛡️ Interesse em segurança de aplicações, proteção de ambientes e gestão de vulnerabilidades.
+- 📚 Aprendizado contínuo e compartilhamento de conhecimento em tecnologia.
 
 ---
 
-## 🎯 Minha jornada em Cyber Security
+## 🎯 Áreas de interesse e aprofundamento
 
-Atualmente direcionando meus estudos para:
-
-- Segurança de Redes (Network Security)
-- Segurança Linux e Windows
-- SOC (Security Operations Center)
-- SIEM e análise de logs
-- Detecção de ameaças e resposta a incidentes
-- Gestão de vulnerabilidades
-- Segurança de aplicações web
+- Network Security
+- Linux & Windows Security
+- Security Operations (SOC)
+- SIEM & Log Analysis
+- Threat Detection & Incident Response
+- Vulnerability Assessment
+- Web Application Security
 - OWASP Top 10
 - Application Security (AppSec)
+- Cloud Security
+- Security Awareness
 
 ---
 
@@ -49,6 +51,7 @@ Atualmente direcionando meus estudos para:
 - Express.js
 - Vue.js
 - APIs REST
+- Socket.IO
 
 ### Infraestrutura e Sistemas
 - Linux
@@ -64,7 +67,14 @@ Atualmente direcionando meus estudos para:
 - MongoDB
 - Git
 - GitHub
-- Socket.IO
+
+### Segurança da Informação
+- Segurança de redes
+- Segurança de sistemas operacionais
+- Análise de tráfego de rede
+- Segurança de aplicações web
+- Monitoramento e análise de logs
+- Gestão de vulnerabilidades
 
 ---
 
@@ -72,26 +82,42 @@ Atualmente direcionando meus estudos para:
 
 ### Altiss Sistemas
 
-Fundador e desenvolvedor de soluções tecnológicas.
-Desenvolvimento de uma plataforma SaaS modular para automação e gestão de processos industriais e logísticos, integrando software, APIs, hardware e dispositivos IoT.
+**Fundador | Desenvolvimento de Software | Arquitetura de Soluções**
+
+Desenvolvimento de uma plataforma SaaS modular para automação e gestão de processos industriais e logísticos, integrando software, APIs, infraestrutura e dispositivos IoT.
+
 Atuação em arquitetura de software, desenvolvimento backend, infraestrutura, integrações, implantação e manutenção de aplicações.
-Essa experiência também representa um ambiente prático para aprofundar conhecimentos em desenvolvimento seguro, proteção de aplicações e segurança de APIs.
+
+A experiência com sistemas em produção proporciona uma perspectiva prática sobre desafios relacionados à segurança de aplicações, proteção de dados, autenticação, autorização e confiabilidade de ambientes tecnológicos.
 
 ---
 
-## 🧪 Laboratórios e projetos de Cyber Security
+## 🧪 Laboratórios e projetos
 
-Aqui compartilho minha evolução prática na área de segurança da informação, incluindo estudos, laboratórios e projetos relacionados a:
+Repositórios dedicados à documentação de projetos, experimentos e práticas relacionadas à segurança da informação.
 
-- Análise de redes e tráfego.
-- Segurança e hardening de servidores Linux.
-- Implementação de soluções SIEM.
-- Monitoramento e análise de logs.
-- Identificação e avaliação de vulnerabilidades.
-- Análise de incidentes de segurança.
-- Testes de segurança em aplicações web.
+Entre os temas abordados:
 
-*Os projetos serão adicionados conforme minha evolução nos estudos e laboratórios práticos.*
+- Linux Security & Hardening
+- Network Security & Traffic Analysis
+- SIEM & Log Monitoring
+- Vulnerability Assessment
+- Incident Detection & Response
+- Web Application Security
+- API Security
+- Cloud Security
+
+Os projetos apresentam procedimentos técnicos, configurações, análises e resultados obtidos em ambientes controlados.
+
+---
+
+## 🎤 Tecnologia, Segurança e Compartilhamento de Conhecimento
+
+Acredito que a segurança da informação vai além das ferramentas e tecnologias: envolve processos, pessoas e cultura organizacional.
+
+Tenho interesse especial em contribuir para a conscientização e disseminação de boas práticas de segurança nas empresas, aproximando os conceitos técnicos da realidade operacional dos negócios.
+
+Compartilhar conhecimento, discutir desafios reais e ajudar organizações a compreenderem melhor seus riscos tecnológicos são objetivos que fazem parte da minha trajetória profissional.
 
 ---
 
